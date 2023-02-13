@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestRush", "ForestRush\ForestRush.csproj", "{38C5EDF9-793F-47B2-9047-84AB1C9696FD}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ForestRushShared", "ForestRushShared\ForestRushShared.shproj", "{A0CDBD0E-3A41-42B7-9425-A838BC2C7383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C5EDF9-793F-47B2-9047-84AB1C9696FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C5EDF9-793F-47B2-9047-84AB1C9696FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C5EDF9-793F-47B2-9047-84AB1C9696FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C5EDF9-793F-47B2-9047-84AB1C9696FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57ED3B4C-6032-4A6B-84D5-950B5888F7D5}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ForestRushShared\ForestRushShared.projitems*{38c5edf9-793f-47b2-9047-84ab1c9696fd}*SharedItemsImports = 5
+		ForestRushShared\ForestRushShared.projitems*{a0cdbd0e-3a41-42b7-9425-a838bc2c7383}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
