@@ -20,5 +20,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)GameStates\GamePlayState.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Player.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)SpriteClasses\FrameAnimatedSprite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StateManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Xin.cs" />
   </ItemGroup>
 </Project>

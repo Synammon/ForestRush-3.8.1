@@ -35,7 +35,7 @@ namespace Psilibrary.SpriteClasses
                 _frames.Add(frame);
             }
 
-            _frameLength = TimeSpan.FromSeconds(1 / 8.0);
+            _frameLength = TimeSpan.FromSeconds(1.0 / 20.0);
         }
 
         public void Reset()

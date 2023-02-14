@@ -91,8 +91,16 @@ namespace ForestRushShared
 
             if (Sprites[_currentAnimation].CurrentFrame >= Sprites[_currentAnimation].Frames && _currentAnimation.ToLower() != "walk" && _currentAnimation.ToLower() != "run")
             {
-                OnTransition("idle");
-                ChangeAnimation("idle");
+                if (_currentAnimation == "jumpstart")
+                {
+                    OnTransition("jumploop");
+                    ChangeAnimation("jumploop");
+                }
+                else
+                {
+                    OnTransition("idle");
+                    ChangeAnimation("idle");
+                }
             }
             else if (Sprites[_currentAnimation].CurrentFrame >= Sprites[_currentAnimation].Frames)
             {

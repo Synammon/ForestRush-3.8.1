@@ -373,3 +373,291 @@
 /processorParam:TextureFormat=Color
 /build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Jump Start/0_Fallen_Angels_Jump Start_005.png;PlayerSprite/JumpStart/0_Fallen_Angels_Jump Start_005.png
 
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_000.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_000.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_000.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_001.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_001.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_001.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_002.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_002.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_002.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_003.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_003.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_003.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_004.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_004.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_004.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_005.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_005.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_005.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_006.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_006.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_006.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_007.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_007.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_007.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_008.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_008.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_008.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_009.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_009.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_009.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_010.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_010.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_010.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_011.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_011.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_011.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_012.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_012.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_012.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_013.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_013.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_013.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_014.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_014.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_014.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_015.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_015.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_015.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_016.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_016.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_016.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_017.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_017.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_017.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_018.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_018.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_018.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_019.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_019.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_019.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_020.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_020.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_020.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_021.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_021.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_021.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_022.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_022.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_022.png
+
+#begin ../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_023.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../../ForestRush-assets/Fallen_Angels_2/PNG/PNG Sequences/Walking/0_Fallen_Angels_Walking_023.png;PlayerSprite/Walking/0_Fallen_Angels_Walking_023.png
+
