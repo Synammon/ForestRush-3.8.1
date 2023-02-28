@@ -16,6 +16,7 @@
     <None Include="$(MSBuildThisFileDirectory)Content\Content.mgcb" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ExtensionMethods.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GameStates\BaseGameState.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)GameStates\GamePlayState.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Player.cs" />

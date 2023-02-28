@@ -60,5 +60,12 @@ namespace Psilibrary.SpriteClasses
                 _currentFrame++;
             }
         }
+
+        public void LockToMap(Point mapSize)
+        {
+            Position = new(
+                MathHelper.Clamp(Position.X, 0, mapSize.X - 128),
+                MathHelper.Clamp(Position.Y, 0, mapSize.Y - 128));
+        }
     }
 }

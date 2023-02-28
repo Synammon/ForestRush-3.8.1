@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForestRush", "ForestRush\ForestRush.csproj", "{38C5EDF9-793F-47B2-9047-84AB1C9696FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForestRush", "ForestRush\ForestRush.csproj", "{38C5EDF9-793F-47B2-9047-84AB1C9696FD}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ForestRushShared", "ForestRushShared\ForestRushShared.shproj", "{A0CDBD0E-3A41-42B7-9425-A838BC2C7383}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Psilibrary", "Psilibrary\Psilibrary.csproj", "{034A5867-06F5-42AD-A75C-AC9730A575C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,10 @@ Global
 		{38C5EDF9-793F-47B2-9047-84AB1C9696FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C5EDF9-793F-47B2-9047-84AB1C9696FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38C5EDF9-793F-47B2-9047-84AB1C9696FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034A5867-06F5-42AD-A75C-AC9730A575C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034A5867-06F5-42AD-A75C-AC9730A575C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034A5867-06F5-42AD-A75C-AC9730A575C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034A5867-06F5-42AD-A75C-AC9730A575C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

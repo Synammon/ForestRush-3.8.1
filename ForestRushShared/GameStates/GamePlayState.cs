@@ -3,6 +3,7 @@ using Microsoft.VisualBasic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Psilibrary.SpriteClasses;
+using Psilibrary.TileEngine;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -37,11 +38,15 @@ namespace ForestRushShared.GameStates
                 _player.LoadContent(Content);
             }
             base.LoadContent();
+
+            World.Load(Content, Game);
         }
 
         public override void Update(GameTime gameTime)
         {
             _player.Update(gameTime);
+            World.TileMap.Update(gameTime);
+
             _motion = new(0, 1);
             _motion.Y *= Gravity * (float)gameTime.ElapsedGameTime.TotalSeconds;
 
@@ -87,21 +92,34 @@ namespace ForestRushShared.GameStates
  
             _player.Sprite.Position += _motion;
 
-            _player.Sprite.Position = new(
-                MathHelper.Clamp(_player.Sprite.Position.X, 0, Game1.BaseWidth - 128),
-                MathHelper.Clamp(_player.Sprite.Position.Y, 0, Game1.BaseHeight - 128));
+            _player.Sprite.LockToMap(
+                new Point(
+                    World.TileMap.WidthInPixels, 
+                    World.TileMap.HeightInPixels));
+
+            Engine.Camera.LockToSprite(_player.Sprite, World.TileMap);
 
             base.Update(gameTime);
         }
 
         public override void Draw(GameTime gameTime)
         {
-            SpriteBatch.Begin();
+            World.TileMap.DrawBackground(gameTime, SpriteBatch, Engine.Camera);
 
-            base.Draw(gameTime);
+            SpriteBatch.Begin(
+                SpriteSortMode.Deferred,
+                BlendState.AlphaBlend,
+                SamplerState.PointClamp,
+                null,
+                null,
+                null,
+                Engine.Camera.Transformation);
+
             _player.Draw(gameTime);
 
             SpriteBatch.End();
+
+            World.TileMap.DrawForeground(gameTime, SpriteBatch, Engine.Camera);
         }
 
         public override void Hide()
